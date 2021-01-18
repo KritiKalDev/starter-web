@@ -7,6 +7,9 @@ Lot of lecture already submitted
 ## Git Comparisions
 Adding Git comparisions lectures 
 
+## Adding my name
+This is my name . My Name is Abhinav.
+
 ## Adding More Changes
 Github contents comparisions with repo
 
