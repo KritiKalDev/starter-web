@@ -7,7 +7,7 @@
 	Abhinav Rajendra
 	Abhinav Rajendra
 	abhinav.rajendra@kritikalvision.ai
-	Project Manager
+	DevOps
 
 # THANKS
 
@@ -15,5 +15,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
-    jQuery, Modernizr, AJAX
+    HTML5, CSS3, Angular , Docker , ReactJS
+    jQuery, Modernizr, AJAX, Java
