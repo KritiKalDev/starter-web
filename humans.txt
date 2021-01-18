@@ -7,7 +7,11 @@
 	Abhinav Rajendra
 	Abhinav Rajendra
 	abhinav.rajendra@kritikalvision.ai
+<<<<<<< HEAD
 	Senour Consultant
+=======
+	DevOps
+>>>>>>> develop
 
 # THANKS
 
@@ -15,5 +19,7 @@
 
 # TECHNOLOGY COLOPHON
 
+<<<<<<< HEAD
     HTML5, CSS3, Angular
     jQuery, Modernizr, Machine Learning, AWS
+>>>>>>> develop
