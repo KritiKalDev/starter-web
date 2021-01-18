@@ -5,6 +5,9 @@
 
     <name> -- <role> -- <twitter>
 	Abhinav Rajendra
+	Abhinav Rajendra
+	abhinav.rajendra@kritikalvision.ai
+	Project Manager
 
 # THANKS
 
