@@ -17,3 +17,4 @@ Github contents comparisions with repo
 ## Purpose
 
 Sample website with plenty of files for demos
+More modifications. We have done so much work together
