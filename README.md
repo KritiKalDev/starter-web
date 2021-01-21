@@ -9,6 +9,7 @@ Adding Git comparisions lectures
 
 ## Adding my name
 This is my name . My Name is Abhinav.
+This is my second name. My name is Rajendra
 
 ## Adding More Changes
 Github contents comparisions with repo
