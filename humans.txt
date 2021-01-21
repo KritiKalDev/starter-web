@@ -15,6 +15,7 @@
 
 # THANKS
 
+	Why do you thank me?
     <name>
 
 # TECHNOLOGY COLOPHON
